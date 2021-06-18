@@ -81,8 +81,8 @@ Website Link: https://simple-website-sustainability.eu-gb.mybluemix.net/
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="https://github.com/Rijushree123">
+  <img src="https://github.com/Rijushree123" />
 </a>
 
 - *Rijushree Guha** - _Initial work_ - [Rijushree Guha](https://github.com/Rijushree123)
