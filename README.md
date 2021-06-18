@@ -50,12 +50,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Project roadmap
 
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
+The project does and aims the following things!!!
 It's in a simple website prototype addressing the basic needs of humanity. In the future we plan to run on Red Hat OpenShift, for example.
 
 ![Roadmap](./images/roadmap.png)
