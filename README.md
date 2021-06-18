@@ -63,7 +63,7 @@ You can copy paste the code and run it on any online/offline ide.
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+You can find a running system to test at https://simple-website-sustainability.eu-gb.mybluemix.net
 
 ## Built with
 
