@@ -19,7 +19,7 @@ The idea is to give rewards for each social work a person does with prove. In th
 
 ## Demo video
 
-[![Watch the video]](./images/demo video.mp4)(https://youtu.be/-8RxCrG6UfM)
+[![Watch the video]](./images/demo1.mp4)(https://youtu.be/-8RxCrG6UfM)
 
 
 ## Long description
