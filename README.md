@@ -17,7 +17,6 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
@@ -47,14 +46,6 @@ It's imperative that learning and creating can continue when educational institu
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
-## The architecture
-
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
-
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
 
 ## Long description
 
@@ -76,11 +67,9 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+We have the html code in public->index.html file.
+Then the css code in the style.css file and images in the images folder.
+You can copy paste the code and run it on any online/offline ide.
 
 ## Live demo
 
@@ -88,12 +77,9 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Cloud Foundry](https://cloud.ibm.com/cloudfoundry/overview) - Deploy and run your applications without managing servers or clusters with IBM Cloud Foundry
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 - [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -109,7 +95,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- *Rijushree Guha** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
