@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  host: simple-website-sustainability
+  name: simple-website-sustainability
+  memory: 64M
+  stack: cflinuxfs2

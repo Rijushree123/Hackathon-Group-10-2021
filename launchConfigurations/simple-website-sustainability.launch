@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.eu-gb.cf.cloud.ibm.com",
+      "Org": "rijusonic@gmail.com",
+      "Space": "dev"
+    },
+    "Name": "simple-website-sustainability",
+    "Instrumentation": {
+      "host": "simple-website-sustainability",
+      "domain": "eu-gb.mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
