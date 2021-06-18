@@ -4,9 +4,6 @@
 
 A basic GitHub repository for ou Sustainability Website [Call for Code](https://developer.ibm.com/callforcode/) project.It addresses the overall climate change in different spheres of life.
 
-> If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source).
-
-_Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
 
 ## Contents
 
