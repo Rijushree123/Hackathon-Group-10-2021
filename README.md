@@ -7,11 +7,14 @@ A basic GitHub repository for ou Sustainability Website [Call for Code](https://
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+####Responsible production and green
+The Sustainable Development Goals developed by the United Nations(https://www.un.org/sustainabledevelopment/sustainable-development-goals/) are the blueprint to achieve a
+better and more sustainable future for all. They address the global challenges we face, including poverty,inequality, climate change, environmental degradation, peace and justice. Approximately 9% of the global population is suffering from hunger. And, much of the world's food is grown by small-scale, independent farms and distributed through local community cooperatives who sell the surplus produce. The co-ops are a central point for quality control, deliveries, and enabling food commodity markets. However, these co-ops face a myriad of logistical challenges to get the right food to the right places with minimal time and cost. In this era still lots of people are victims to poverty, hunger and climate change. Climate change is a by product of deforestation and loss of green. Over the top there is limitless watsage of power and energy nowadays. 
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms to do more social work and show to the world what each one of them can do. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well. This website will guid them all sections of the society and reward them for each work they do.
+Schools and teachers can continue to engage with their students through virtual classrooms to do more social work and show to the world what each one of them can do. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well. This website will guid them all sections of the society and reward them for each work they do.Technology can help in many ways, from recommendations on energy efficiency to highlighting the carbon footprint of online purchases.From intelligent solutions for small farmers to recycling showers, technology can make a significant impact on the availability of water and its consumption. IBM provides various technologies such as IoT, Watson,and blockchain. 
+Technology can help in many ways. For example, by bringing the paper ledgers of food co-ops online, communities can harness data insights from their environment for better crop resilience and overall yield for sustainable food production systems. More crops mean better access to food for the community. Rural farmers might not have access to network connectivity, digital literacy, or the language to adopt tech solutions directly, so the co-ops become the pivotal point of innovation
 
 ### The idea
 
