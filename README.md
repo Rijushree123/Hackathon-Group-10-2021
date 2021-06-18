@@ -23,7 +23,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
-  - [Versioning](#versioning)
+  - [Website Link](#versioning)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
@@ -85,9 +85,9 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Website Link
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+Website Link: https://simple-website-sustainability.eu-gb.mybluemix.net/
 
 ## Authors
 
@@ -95,7 +95,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
-- *Rijushree Guha** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- *Rijushree Guha** - _Initial work_ - [Rijushree Guha](https://github.com/Rijushree123)
 
 ## License
 
