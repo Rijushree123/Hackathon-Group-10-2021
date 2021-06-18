@@ -10,7 +10,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
+- [Sustainability Website](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
